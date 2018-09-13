@@ -1,2 +1,2 @@
 language : java
-script : chmod +x build.sh && ./build.sh
+script : chmod 777 build.sh && ./build.sh
